@@ -2,7 +2,7 @@
 Hello everyone,
  Here are my config files of my Ubuntu i3WM machine.
  Keep in mind that some of the configs of rofi and neofetch are not mine,
-the link to repos is inside the config file.
+the link to repos is inside the config file. Please check out the github owner themes (https://github.com/adi1090x/rofi) 
    
    
    ## Rice
