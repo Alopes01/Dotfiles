@@ -21,7 +21,7 @@ the link to repos is inside the config file. Please check out the github owner t
   
   ## Gallery
   
-  [Wallpaper](./Wallpaper/best.png) https://github.com/D3Ext/aesthetic-wallpapers
+ ![Wallpaper](./Wallpaper/best.png) https://github.com/D3Ext/aesthetic-wallpapers
   
 [Sceenshots](./Screenshots)
  
