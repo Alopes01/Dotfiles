@@ -8,7 +8,7 @@ the link to repos is inside the config file. Please check out the github owner t
    ## Rice
    
   - **OS:** Ubuntu
-  - **Window Manager:** ![i3WM](./I3WM)
+  - **Window Manager:** [i3WM](./I3WM)
   - **Bar:** ![Polybar](./Polybar)
   - **Launcher:** ![Rofi](./Rofi)
   - **Compositor:** ![Picom](https://github.com/yshui/picom)
