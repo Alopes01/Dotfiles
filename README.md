@@ -1,4 +1,4 @@
-# Dotfile
+# Dotfiles
 Hello everyone,
  Here are my config files of my Ubuntu i3WM machine.
  Keep in mind that some of the configs of rofi and neofetch are not mine,
@@ -25,12 +25,22 @@ the link to repos is inside the config file. Please check out the github owner t
   
 ![Sceenshots](./Screenshots)
  
-![a](./Screenshots/a)
-![b](./Screenshots/b)
-![c](./Screenshots/c)
-![d](./Screenshots/e)
-![e](./Screenshots/e)
+![a](./Screenshots/a.jpg)
 
+
+![b](./Screenshots/b.jpg)
+
+
+![c](./Screenshots/c.jpg)
+
+
+![d](./Screenshots/e.jpg)
+
+
+![e](./Screenshots/e.jpg)
+
+
+![f](./Screenshots/f.jpg)
 Hope you like it!!
  Have a good day :)
 
