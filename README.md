@@ -19,7 +19,7 @@ the link to repos is inside the config file. Please check out the github owner t
   - **Color scheme generator:** [Pywal](https://github.com/dylanaraps/pywal)
     **Zsh theme:** [Powerlevel10k](https://github.com/romkatv/powerlevel10k)
   
-  ## Gallery
+  ## Wallpaper 
   
 ![Wallpaper](./Wallpaper/best.png) https://github.com/D3Ext/aesthetic-wallpapers
   
