@@ -23,7 +23,7 @@ the link to repos is inside the config file. Please check out the github owner t
   
 ![Wallpaper](./Wallpaper/best.png) https://github.com/D3Ext/aesthetic-wallpapers
   
-[Sceenshots](./Screenshots)
+  ## Screenshots
  
 ![a](./Screenshots/a.jpg)
 
