@@ -21,10 +21,16 @@ the link to repos is inside the config file. Please check out the github owner t
   
   ## Gallery
   
-  ![Wallpaper](./Wallpaper/best.png)-from (https://github.com/D3Ext/aesthetic-wallpapers)
+  ![Wallpaper](./Wallpaper/best.png) (https://github.com/D3Ext/aesthetic-wallpapers)
   
 ![Sceenshots](./Screenshots)
  
-  Hope you like it!!
+![a](./Screenshots/a)
+![b](./Screenshots/b)
+![c](./Screenshots/c)
+![d](./Screenshots/e)
+![e](./Screenshots/e)
+
+Hope you like it!!
  Have a good day :)
 
