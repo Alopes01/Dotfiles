@@ -34,7 +34,7 @@ the link to repos is inside the config file. Please check out the github owner t
 ![c](./Screenshots/c.jpg)
 
 
-![d](./Screenshots/e.jpg)
+![d](./Screenshots/d.jpg)
 
 
 ![e](./Screenshots/e.jpg)
