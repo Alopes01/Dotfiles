@@ -47,3 +47,4 @@ the link to repos is inside the config file. Please check out the github owner t
 Hope you like it!!
  Have a good day :)
 
+[Back to reddit](https://www.reddit.com/r/unixporn/s/QPJJQLFU4W) 
