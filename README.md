@@ -5,42 +5,42 @@ Hello everyone,
 the link to repos is inside the config file. Please check out the github owner themes (https://github.com/adi1090x/rofi) 
    
    
-   ## Rice
+   ## First Rice
    
   - **OS:** Ubuntu
-  - **Window Manager:** [i3WM](./First_rice/I3WM)
-  - **Bar:** [Polybar](./Polybar)
-  - **Launcher:** [Rofi](./Rofi)
+  - **Window Manager:** [i3WM](./FIRST_RICE/I3WM)
+  - **Bar:** [Polybar](./FIRST_RICE/Polybar)
+  - **Launcher:** [Rofi](./FIRST_RICE/Rofi)
   - **Compositor:** [Picom](https://github.com/yshui/picom)
-  - **Terminal:** [Kitty](./Kitty)
+  - **Terminal:** [Kitty](./FIRST_RICE/Kitty)
   - **File Manager:** Rofi
-  - [Neofetch](./Neofetch)
+  - [Neofetch](./FIRST_RICE/Neofetch)
   - **Fonts:** font-awesome (Polybar),jetbrainsmono nerd fonts (Polybar,rofi and i3) and Symbols Nerd Font Mono (Polybar)
   - **Color scheme generator:** [Pywal](https://github.com/dylanaraps/pywal)
-    **Zsh theme:** [Powerlevel10k](https://github.com/romkatv/powerlevel10k)
+  - **Zsh theme:** [Powerlevel10k](https://github.com/romkatv/powerlevel10k)
   
   ## Wallpaper 
   
-![Wallpaper](./Wallpaper/best.png) https://github.com/D3Ext/aesthetic-wallpapers
+![Wallpaper](./FIRST_RICE/Wallpaper/best.png) https://github.com/D3Ext/aesthetic-wallpapers
   
   ## Screenshots
  
-![a](./Screenshots/a.jpg)
+![a](./FIRST_RICE/Screenshots/a.jpg)
 
 
-![b](./Screenshots/b.jpg)
+![b](./Screenshots/FIRST_RICE/b.jpg)
 
 
-![c](./Screenshots/c.jpg)
+![c](./Screenshots/FIRST_RICE/c.jpg)
 
 
-![d](./Screenshots/d.jpg)
+![d](./Screenshots/FIRST_RICE/d.jpg)
 
 
-![e](./Screenshots/e.jpg)
+![e](./Screenshots/FIRST_RICE/e.jpg)
 
 
-![f](./Screenshots/f.jpg)
+![f](./Screenshots/FIRST_RICE/f.jpg)
 
 
 
@@ -48,3 +48,6 @@ Hope you like it!!
  Have a good day :)
 
 [Back to reddit](https://www.reddit.com/r/unixporn/s/QPJJQLFU4W) 
+
+
+## Second Rice
