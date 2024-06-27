@@ -24,23 +24,19 @@ the link to repos is inside the config file. Please check out the github owner t
 ![Wallpaper](./FIRST_RICE/Wallpaper/best.png) https://github.com/D3Ext/aesthetic-wallpapers
   
   ## Screenshots
- 
 ![a](./FIRST_RICE/Screenshots/a.jpg)
 
+![b](./FIRST_RICE/Screenshots/b.jpg)
 
-![b](./Screenshots/FIRST_RICE/b.jpg)
+![c](./FIRST_RICE/Screenshots/c.jpg)
 
+![d](./FIRST_RICE/Screenshots/d.jpg)
 
-![c](./Screenshots/FIRST_RICE/c.jpg)
+![e](./FIRST_RICE/Screenshots/e.jpg)
 
-
-![d](./Screenshots/FIRST_RICE/d.jpg)
-
-
-![e](./Screenshots/FIRST_RICE/e.jpg)
+![f](./FIRST_RICE/Screenshots/f.jpg)
 
 
-![f](./Screenshots/FIRST_RICE/f.jpg)
 
 
 
@@ -48,6 +44,10 @@ Hope you like it!!
  Have a good day :)
 
 [Back to reddit](https://www.reddit.com/r/unixporn/s/QPJJQLFU4W) 
+
+
+
+
 
 
 ## Second Rice
