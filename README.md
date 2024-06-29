@@ -58,7 +58,7 @@ Hope you like it!!
 |**Bar**|[Polybar](./SECOND_RICE/Polybar)|...|
 |**Launcher**|[Rofi](./SECOND_RICE/Rofi)|https://github.com/adi1090x/rofi|
 |**Compositor** |[Picom](https://github.com/yshui/picom)|https://github.com/yshui/picom|
-|**Terminal** |[Kitty](./SECOND_RICE/Kitty)|`systemd`, `betterlockscreen`|
+|**Terminal** |[Kitty](./SECOND_RICE/Kitty)|...|
 |**Fonts** |font-awesome,jetbrainsmono nerd fonts and Symbols Nerd Font Mono |...|
 |**Color scheme generator** |[Pywal](https://github.com/dylanaraps/pywal)|https://github.com/dylanaraps/pywal|
 |**Zsh theme** |[Powerlevel10k](https://github.com/romkatv/powerlevel10k)|https://github.com/romkatv/powerlevel10k|
@@ -74,18 +74,18 @@ Hope you like it!!
 
 ## Screenshots
 
-![a](./SECOND_RICE/Screenshots/a.png')
+![a](./SECOND_RICE/Screenshots/a.png)
 
-![a](./SECOND_RICE/Screenshots/b.jpg)
+![a](./SECOND_RICE/Screenshots/b.png)
 
-![a](./SECOND_RICE/Screenshots/c.jpg)
+![a](./SECOND_RICE/Screenshots/c.png)
 
-![a](./SECOND_RICE/Screenshots/d.jpg)
+![a](./SECOND_RICE/Screenshots/d.png)
 
-![a](./SECOND_RICE/Screenshots/e.jpg)
+![a](./SECOND_RICE/Screenshots/e.png)
 
-![a](./SECOND_RICE/Screenshots/f.jpg)
+![a](./SECOND_RICE/Screenshots/f.png)
 
-![a](./SECOND_RICE/Screenshots/g.jpg)
+![a](./SECOND_RICE/Screenshots/g.png)
 
-![a](./SECOND_RICE/Screenshots/h.jpg)
+![a](./SECOND_RICE/Screenshots/h.png)
