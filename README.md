@@ -53,7 +53,7 @@ Hope you like it!!
 ## Second Rice
 |Contents|Where|Sources|
 |:-|:-|:-|
-|**OS**|...|...|
+|**OS**|Ubuntu|...|
 |**Window Manager** |[i3WM](./SECOND_RICE/I3WM)|...|
 |**Bar**|[Polybar](./SECOND_RICE/Polybar)|...|
 |**Launcher**|[Rofi](./SECOND_RICE/Rofi)|https://github.com/adi1090x/rofi|
