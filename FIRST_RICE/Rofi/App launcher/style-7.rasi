@@ -9,25 +9,25 @@
 
 /*****----- Configuration -----*****/
 configuration {
-	modi:                       "drun,run,filebrowser,window";
-    show-icons:                 false;
+        modi:                       "drun,run,filebrowser,window";
+    show-icons:                 true;
     display-drun:               "";
     display-run:                "";
     display-filebrowser:        "";
     display-window:             "";
-	drun-display-format:        "{name}";
-	window-format:              "{w} · {c} · {t}";
+        drun-display-format:        "{name}";
+        window-format:              "{w} · {c} · {t}";
 }
 
 /*****----- Global Properties -----*****/
 * {
     font:                        "JetBrains Mono Nerd Font 10";
-    background:                  #101010;
-    background-alt:              #252525;
+    background:                  #11092D;
+    background-alt:              #281657;
     foreground:                  #FFFFFF;
-    selected:                    #505050;
-    active:                      #909090;
-    urgent:                      #707070;
+    selected:                    #DF5296;
+    active:                      #6E77FF;
+    urgent:                      #8E3596;
 }
 
 /*****----- Main Window -----*****/
@@ -37,7 +37,7 @@ window {
     location:                    center;
     anchor:                      center;
     fullscreen:                  false;
-    width:                       400px;
+    width:                       700px;
     x-offset:                    0px;
     y-offset:                    0px;
 
@@ -62,19 +62,19 @@ listbox {
     padding:                     20px;
     background-color:            transparent;
     orientation:                 vertical;
-    children:                    [ "message", "listview", "mode-switcher" ];
+    children:                    [ "message", "listview" ];
 }
 
 /*****----- Inputbar -----*****/
 inputbar {
     enabled:                     true;
     spacing:                     10px;
-    padding:                     100px 40px;
+    padding:                     80px 60px;
     background-color:            transparent;
-    background-image:            url("~/.config/rofi/images/g.png", width);
+    background-image:            url("~/.config/rofi/images/a.png", width);
     text-color:                  @foreground;
     orientation:                 horizontal;
-    children:                    [ "textbox-prompt-colon", "entry" ];
+    children:                    [ "textbox-prompt-colon", "entry", "dummy", "mode-switcher" ];
 }
 textbox-prompt-colon {
     enabled:                     true;
@@ -87,7 +87,8 @@ textbox-prompt-colon {
 }
 entry {
     enabled:                     true;
-    expand:                      true;
+    expand:                      false;
+    width:                       250px;
     padding:                     12px 16px;
     border-radius:               100%;
     background-color:            @background-alt;
@@ -95,6 +96,10 @@ entry {
     cursor:                      text;
     placeholder:                 "Search";
     placeholder-color:           inherit;
+}
+dummy {
+    expand:                      true;
+    background-color:            transparent;
 }
 
 /*****----- Mode Switcher -----*****/
@@ -105,6 +110,7 @@ mode-switcher{
     text-color:                  @foreground;
 }
 button {
+    width:                       45px;
     padding:                     12px;
     border-radius:               100%;
     background-color:            @background-alt;
@@ -120,7 +126,7 @@ button selected {
 listview {
     enabled:                     true;
     columns:                     1;
-    lines:                       5;
+    lines:                       7;
     cycle:                       true;
     dynamic:                     true;
     scrollbar:                   false;
@@ -128,7 +134,7 @@ listview {
     reverse:                     false;
     fixed-height:                true;
     fixed-columns:               true;
-    
+
     spacing:                     10px;
     background-color:            transparent;
     text-color:                  @foreground;
@@ -139,7 +145,7 @@ listview {
 element {
     enabled:                     true;
     spacing:                     10px;
-    padding:                     12px;
+    padding:                     4px;
     border-radius:               100%;
     background-color:            transparent;
     text-color:                  @foreground;
@@ -196,8 +202,8 @@ textbox {
     horizontal-align:            0.0;
 }
 error-message {
-    padding:                     15px;
-    border-radius:               0px;
+    padding:                     12px;
+    border-radius:               20px;
     background-color:            @background;
     text-color:                  @foreground;
 }
