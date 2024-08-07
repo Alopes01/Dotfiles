@@ -21,7 +21,7 @@ the link to repos is inside the config file.
 |**Terminal** |[Kitty](./SECOND_RICE/Kitty)|...|
 |**Fonts** |font-awesome,jetbrainsmono nerd fonts and Symbols Nerd Font Mono |...|
 |**Color scheme generator** |[Pywal](https://github.com/dylanaraps/pywal)|https://github.com/dylanaraps/pywal|
-|**Zsh theme** |[Powerlevel10k](https://github.com/romkatv/powerlevel10k)|https://github.com/romkatv/powerlevel10k|
+|**Zsh theme** |[Powerlevel10k](https://github.com/romkatv/powerlevel10k)|https://github.com/romkatv/powerlevel10k and https://github.com/romkatv/zsh4humans  |
 |**Wallpapers** |[here](./SECOND_RICE/Wallpapers)|https://github.com/D3Ext/aesthetic-wallpapers|
 |**Wallpaper-changer** |[Wall-d](./SECOND_RICE/Wallpaper_changer_script)|https://github.com/ronniedroid/Wall-d|
 |**Neofetch** |[here](./SECOND_RICE/Neofetch)|https://github.com/mmsaeed509|
